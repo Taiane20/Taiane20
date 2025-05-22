@@ -16,10 +16,9 @@ Atualmente estou estudando:
 Me interesso por Engenharia de Software e áreas que envolvam lógica, análise, estrutura e construção de sistemas.
 
 ---
-vamos conversar?!
+vamos conversar!?
 
-| [E-mail](tayanearaujo600@gmail.com)
-
+[![E-mail](https://img.shields.io/badge/E--mail-Enviar-informational?logo=gmail)](mailto:tayanearaujo600@gmail.com)
 
 <!---
 Taiane20/Taiane20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
